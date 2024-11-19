@@ -1,1 +1,1 @@
-# [Super_Store_code](discoveries(1).iynb)
+# [Super_Store_code](discoveries_converted.md)
